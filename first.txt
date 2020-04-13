@@ -1,7 +1,0 @@
-Gitの練習
-基本的なワークフローを学ぶ
-・git add
-・git commit
-・git rm
-・git status
-・git diff
